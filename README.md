@@ -1,19 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-	<H1 align="center">The Server for Ball Battle</H1>
-	<h2>
-		<p>
+
+<H1 align="center">The Server for Ball Battle</H1>
+<h2>
 			The server is implementation by php and mysql.
 			record the level simply.
-		</p>
-	</h2>
+</h2>
 
-	<img src="ballbattle_server/images/show1.png">
-	<img src="ballbattle_server/images/show2.png">
-	<img src="ballbattle_server/images/show3.png">
-</body>
-</html>
+![](ballbattle_server/images/show1.png)
+![](ballbattle_server/images/show2.png)
+![](ballbattle_server/images/show3.png)
